@@ -20,4 +20,5 @@ Script to clean and prepare the raw data. Collection of queries for exploratory 
 The data was obtained through the KAGGLE WALMART SALES FORECASTING COMPETITION.
 
 Database table creation-
+
 <img width="460" alt="image" src="https://github.com/Banti133/Walmart_Sales_Analysis-/assets/134291468/4ac5fb51-845c-4f9a-a14a-badf35d313c9">
